@@ -42,3 +42,4 @@ refresh for all sources by using ~--force-refresh~ flag.
 
 You will also need [[https://fonts.google.com/specimen/Lora][Lora font]] for the tool. Till the time automatic installation
 is built, you can use [[https://github.com/lordgiotto/google-font-installer][this tool]] for installation.
+New features are going to be added and current code will be improved
